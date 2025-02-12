@@ -63,3 +63,10 @@ npm run dev
 npm start
 ```
 
+### **start front end**
+```sh
+cd frontend
+npm install
+npm start
+```
+
